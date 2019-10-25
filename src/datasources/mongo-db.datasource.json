@@ -1,0 +1,12 @@
+{
+  "name": "mongoDB",
+  "connector": "mongodb",
+  "url": "mongodb+srv://phoneBook:12345@phone-book-r8wm5.mongodb.net/test?retryWrites=true&w=majority",
+  "host": "",
+  "port": "",
+  "user": "",
+  "password": "",
+  "database": "",
+  "useNewUrlParser": true
+}
+
